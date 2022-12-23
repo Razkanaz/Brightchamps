@@ -13,7 +13,7 @@ namespace HexCodeChecker
 
         static void Main (string[] args)
         {
-            string hexcode = Console.ReadLine();
+            string hexcode = Console.ReadLine() ?? "";
             Console.WriteLine(HexCodeCheck(hexcode));
         }
     }
