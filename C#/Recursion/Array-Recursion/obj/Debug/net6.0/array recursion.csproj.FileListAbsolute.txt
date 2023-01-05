@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\bin\Debug\net6.0\array recursion.exe
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\bin\Debug\net6.0\array recursion.deps.json
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\bin\Debug\net6.0\array recursion.runtimeconfig.json
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\bin\Debug\net6.0\array recursion.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\bin\Debug\net6.0\array recursion.pdb
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\refint\array recursion.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.pdb
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\array recursion.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\array recursion\array recursion\obj\Debug\net6.0\ref\array recursion.dll

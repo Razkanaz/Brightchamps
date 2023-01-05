@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "osY6+2RGQDCrbF9WEJC/eEIAErkwSBAL2XoBXZbFL02IcjFX+a1MU5E0z05UXP8RaeVYA+dSSGQCHC3g0+i3fg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aznee\\Documents\\Real_documents\\coding\\C#\\Brightchamps\\misc\\uban-detector\\uban detector.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aznee\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.12\\microsoft.netcore.app.host.win-x64.6.0.12.nupkg.sha512",
+    "C:\\Users\\aznee\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.12\\microsoft.aspnetcore.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\aznee\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.12\\microsoft.windowsdesktop.app.ref.6.0.12.nupkg.sha512",
+    "C:\\Users\\aznee\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.12\\microsoft.netcore.app.ref.6.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\bin\Debug\net6.0\RegexPalindrome.exe
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\bin\Debug\net6.0\RegexPalindrome.deps.json
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\bin\Debug\net6.0\RegexPalindrome.runtimeconfig.json
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\bin\Debug\net6.0\RegexPalindrome.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\bin\Debug\net6.0\RegexPalindrome.pdb
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\refint\RegexPalindrome.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.pdb
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\RegexPalindrome.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\RegexPalindrome\obj\Debug\net6.0\ref\RegexPalindrome.dll

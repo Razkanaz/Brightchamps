@@ -1,0 +1,4 @@
+dotnet new console
+rm program.cs
+
+Get-ChildItem -Path [here] -Directory -Force -ErrorAction SilentlyContinue | Select-Object FullName
