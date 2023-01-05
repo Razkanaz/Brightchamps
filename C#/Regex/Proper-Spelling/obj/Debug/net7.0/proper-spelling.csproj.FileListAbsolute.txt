@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\bin\Debug\net7.0\proper-spelling.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\bin\Debug\net7.0\proper-spelling.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\bin\Debug\net7.0\proper-spelling.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\bin\Debug\net7.0\proper-spelling.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\bin\Debug\net7.0\proper-spelling.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\refint\proper-spelling.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\proper-spelling.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\proper-spelling\obj\Debug\net7.0\ref\proper-spelling.dll
