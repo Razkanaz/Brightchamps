@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hex-Code-Checker/1.0.0": {
+        "runtime": {
+          "Hex-Code-Checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hex-Code-Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

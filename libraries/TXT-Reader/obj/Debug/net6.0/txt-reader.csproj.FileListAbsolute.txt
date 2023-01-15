@@ -1,0 +1,12 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\bin\Debug\net6.0\txt-reader.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\bin\Debug\net6.0\txt-reader.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\bin\Debug\net6.0\txt-reader.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\txt-reader.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\txt-reader.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\txt-reader.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\txt-reader.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\txt-reader.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\txt-reader.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\refint\txt-reader.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\txt-reader.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\libraries\txt-reader\obj\Debug\net6.0\ref\txt-reader.dll

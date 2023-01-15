@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\bin\Debug\net7.0\repeated-words.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\bin\Debug\net7.0\repeated-words.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\bin\Debug\net7.0\repeated-words.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\bin\Debug\net7.0\repeated-words.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\bin\Debug\net7.0\repeated-words.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\refint\repeated-words.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\repeated-words.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\regex\repeated-words\obj\Debug\net7.0\ref\repeated-words.dll

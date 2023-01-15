@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\bin\Debug\net7.0\Hex-Code-Checker.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\bin\Debug\net7.0\Hex-Code-Checker.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\bin\Debug\net7.0\Hex-Code-Checker.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\bin\Debug\net7.0\Hex-Code-Checker.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\bin\Debug\net7.0\Hex-Code-Checker.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\refint\Hex-Code-Checker.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\Hex-Code-Checker.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Hex-Code-Checker\obj\Debug\net7.0\ref\Hex-Code-Checker.dll

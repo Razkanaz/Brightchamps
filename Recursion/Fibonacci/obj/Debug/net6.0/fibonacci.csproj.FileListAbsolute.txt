@@ -1,0 +1,30 @@
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\bin\Debug\net6.0\fibonacci.exe
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\bin\Debug\net6.0\fibonacci.deps.json
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\bin\Debug\net6.0\fibonacci.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\bin\Debug\net6.0\fibonacci.pdb
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\refint\fibonacci.dll
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.pdb
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real documents\coding\C#\fibonacci\fibonacci\obj\Debug\net6.0\ref\fibonacci.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\bin\Debug\net6.0\fibonacci.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\bin\Debug\net6.0\fibonacci.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\bin\Debug\net6.0\fibonacci.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\bin\Debug\net6.0\fibonacci.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\bin\Debug\net6.0\fibonacci.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\refint\fibonacci.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\fibonacci.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\recursion\Fibonacci\obj\Debug\net6.0\ref\fibonacci.dll

@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\bin\Debug\net7.0\switch.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\bin\Debug\net7.0\switch.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\bin\Debug\net7.0\switch.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\bin\Debug\net7.0\switch.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\bin\Debug\net7.0\switch.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\refint\switch.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\switch.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\switch\obj\Debug\net7.0\ref\switch.dll

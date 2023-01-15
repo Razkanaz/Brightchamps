@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\bin\Debug\net7.0\Project-#5.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\bin\Debug\net7.0\Project-#5.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\bin\Debug\net7.0\Project-#5.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\bin\Debug\net7.0\Project-#5.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\bin\Debug\net7.0\Project-#5.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\refint\Project-#5.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\Project-#5.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Legacy-code\project-#5\obj\Debug\net7.0\ref\Project-#5.dll

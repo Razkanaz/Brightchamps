@@ -1,0 +1,5 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\uban-detector\obj\Debug\net6.0\uban detector.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\uban-detector\obj\Debug\net6.0\uban detector.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\uban-detector\obj\Debug\net6.0\uban detector.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\uban-detector\obj\Debug\net6.0\uban detector.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\misc\uban-detector\obj\Debug\net6.0\uban detector.csproj.CoreCompileInputs.cache

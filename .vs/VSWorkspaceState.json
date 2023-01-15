@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\libraries",
+    "\\libraries\\TXT-Reader",
+    "\\Regex",
+    "\\Regex\\Cs-Document"
   ],
   "SelectedNode": "\\Brightchamps.sln",
   "PreviewInSolutionExplorer": false
