@@ -1,11 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\libraries",
-    "\\libraries\\TXT-Reader",
-    "\\Regex",
-    "\\Regex\\Cs-Document"
+    "\\C#",
+    "\\C#\\DateAndTime"
   ],
-  "SelectedNode": "\\Brightchamps.sln",
+  "SelectedNode": "\\C#\\DateAndTime\\Starting",
   "PreviewInSolutionExplorer": false
 }

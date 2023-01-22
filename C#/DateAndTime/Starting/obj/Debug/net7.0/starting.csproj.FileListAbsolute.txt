@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\bin\Debug\net7.0\starting.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\bin\Debug\net7.0\starting.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\bin\Debug\net7.0\starting.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\bin\Debug\net7.0\starting.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\bin\Debug\net7.0\starting.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\refint\starting.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\starting.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Dateandtime\starting\obj\Debug\net7.0\ref\starting.dll

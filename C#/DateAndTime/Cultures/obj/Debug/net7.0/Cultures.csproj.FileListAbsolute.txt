@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\bin\Debug\net7.0\Cultures.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\bin\Debug\net7.0\Cultures.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\bin\Debug\net7.0\Cultures.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\bin\Debug\net7.0\Cultures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\bin\Debug\net7.0\Cultures.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\refint\Cultures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\Cultures.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\dateandtime\cultures\obj\Debug\net7.0\ref\Cultures.dll
