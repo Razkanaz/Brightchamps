@@ -17,6 +17,27 @@
             return int.Parse(answer);
         }
 
+        public static string askstr(string question, string errorMessage = "please put in something\n")
+        { 
+            string answer = "";
+
+            while (answer == string.Empty)
+            {
+                Console.Write(question);
+                answer = Console.ReadLine() ?? "";
+                if (answer == string.Empty)
+                {
+                    Console.WriteLine(errorMessage);
+                }
+            }
+            return answer;
+        }
+
+        public static bool keyPressed (ConsoleKeyInfo check,ConsoleKey key)
+        {
+            return check.Key == key;
+        }
+
         public static void ClearConsoleLine(int line, int returnto = -50)
         {
             if (returnto == -50)

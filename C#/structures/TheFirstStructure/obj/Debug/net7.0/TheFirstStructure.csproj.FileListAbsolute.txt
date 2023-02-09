@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\bin\Debug\net7.0\TheFirstStructure.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\bin\Debug\net7.0\TheFirstStructure.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\bin\Debug\net7.0\TheFirstStructure.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\bin\Debug\net7.0\TheFirstStructure.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\bin\Debug\net7.0\TheFirstStructure.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\refint\TheFirstStructure.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\TheFirstStructure.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\TheFirstStructure\obj\Debug\net7.0\ref\TheFirstStructure.dll

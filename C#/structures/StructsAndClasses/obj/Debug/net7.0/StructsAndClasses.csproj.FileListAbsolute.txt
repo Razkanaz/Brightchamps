@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\bin\Debug\net7.0\StructsAndClasses.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\bin\Debug\net7.0\StructsAndClasses.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\bin\Debug\net7.0\StructsAndClasses.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\bin\Debug\net7.0\StructsAndClasses.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\bin\Debug\net7.0\StructsAndClasses.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\refint\StructsAndClasses.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\StructsAndClasses.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\StructsAndClasses\obj\Debug\net7.0\ref\StructsAndClasses.dll
