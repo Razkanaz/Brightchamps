@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\bin\Debug\net7.0\RefrencingStructures.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\bin\Debug\net7.0\RefrencingStructures.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\bin\Debug\net7.0\RefrencingStructures.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\bin\Debug\net7.0\RefrencingStructures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\bin\Debug\net7.0\RefrencingStructures.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\refint\RefrencingStructures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\RefrencingStructures.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\structures\RefrencingStructures\obj\Debug\net7.0\ref\RefrencingStructures.dll

@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\bin\Debug\net7.0\FunctionsInStructures.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\bin\Debug\net7.0\FunctionsInStructures.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\bin\Debug\net7.0\FunctionsInStructures.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\bin\Debug\net7.0\FunctionsInStructures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\bin\Debug\net7.0\FunctionsInStructures.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\refint\FunctionsInStructures.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\FunctionsInStructures.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Structures\FunctionsInStructures\obj\Debug\net7.0\ref\FunctionsInStructures.dll
