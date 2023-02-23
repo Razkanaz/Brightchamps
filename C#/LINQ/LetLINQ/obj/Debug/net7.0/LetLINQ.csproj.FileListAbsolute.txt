@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\bin\Debug\net7.0\LetLINQ.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\bin\Debug\net7.0\LetLINQ.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\bin\Debug\net7.0\LetLINQ.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\bin\Debug\net7.0\LetLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\bin\Debug\net7.0\LetLINQ.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\refint\LetLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\LetLINQ.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\LetLINQ\obj\Debug\net7.0\ref\LetLINQ.dll

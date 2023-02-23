@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\bin\Debug\net7.0\FirstLINQ.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\bin\Debug\net7.0\FirstLINQ.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\bin\Debug\net7.0\FirstLINQ.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\bin\Debug\net7.0\FirstLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\bin\Debug\net7.0\FirstLINQ.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\refint\FirstLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\FirstLINQ.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\FirstLINQ\obj\Debug\net7.0\ref\FirstLINQ.dll

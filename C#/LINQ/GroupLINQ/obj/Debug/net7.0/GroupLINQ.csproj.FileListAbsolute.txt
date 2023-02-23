@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\bin\Debug\net7.0\GroupLINQ.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\bin\Debug\net7.0\GroupLINQ.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\bin\Debug\net7.0\GroupLINQ.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\bin\Debug\net7.0\GroupLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\bin\Debug\net7.0\GroupLINQ.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\refint\GroupLINQ.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\GroupLINQ.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\LINQ\GroupLINQ\obj\Debug\net7.0\ref\GroupLINQ.dll
