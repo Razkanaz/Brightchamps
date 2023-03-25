@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\bin\Debug\net7.0\AbstractAnimals.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\bin\Debug\net7.0\AbstractAnimals.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\bin\Debug\net7.0\AbstractAnimals.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\bin\Debug\net7.0\AbstractAnimals.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\bin\Debug\net7.0\AbstractAnimals.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\refint\AbstractAnimals.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\AbstractAnimals.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\AbstractAnimals\obj\Debug\net7.0\ref\AbstractAnimals.dll

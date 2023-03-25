@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\bin\Debug\net7.0\partials.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\bin\Debug\net7.0\partials.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\bin\Debug\net7.0\partials.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\bin\Debug\net7.0\partials.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\bin\Debug\net7.0\partials.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\refint\partials.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\partials.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\misc\partials\obj\Debug\net7.0\ref\partials.dll

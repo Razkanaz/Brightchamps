@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\bin\Debug\net7.0\NPCInheritence.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\bin\Debug\net7.0\NPCInheritence.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\bin\Debug\net7.0\NPCInheritence.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\bin\Debug\net7.0\NPCInheritence.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\bin\Debug\net7.0\NPCInheritence.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\refint\NPCInheritence.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\NPCInheritence.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Inheritence\NPCInheritence\obj\Debug\net7.0\ref\NPCInheritence.dll

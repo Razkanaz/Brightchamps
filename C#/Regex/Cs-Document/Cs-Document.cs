@@ -8,10 +8,16 @@ namespace Csdoc
     {
         static void Main(string[] args)
         {
-            
+            Reading Read = new Reading();
+
+            Read.SetDefaultPath(@"C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Regex\Cs-Document\Document.txt");
+
             if (!File.Exists(@"C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Regex\Cs-Document\Document.txt"))
             {
-                Writefile();
+                Read.makefile();
+
+                Console.Write("what do you want to put in the file: ");
+                Read.writefile(Console.ReadLine() ?? "");
                 return;
             }
 
@@ -23,28 +29,19 @@ namespace Csdoc
 
             if (mode == 1)
             {
-                readfile();
+                string document = Read.readfiletext();
+
+                Console.WriteLine("\n" + document);
+
+                Console.WriteLine(Regex.IsMatch(document, Regex.Escape("C#"), RegexOptions.IgnoreCase) ? "this is a C# documents" : "This is not a C# document");
             } else
             {
-                Writefile();
+                Read.makefile();
+
+                Console.Write("what do you want to put in the file: ");
+                Read.writefile(Console.ReadLine() ?? "");
+                
             }
-        }
-
-        static void Writefile ()
-        {
-            Reading.makefile(@"C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Regex\Cs-Document\Document.txt");
-
-            Console.Write("what do you want to put in the file: ");
-            Reading.writefile(Console.ReadLine()?? "", @"C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Regex\Cs-Document\Document.txt");
-        }
-
-        static void readfile ()
-        {
-            string document = Reading.readfiletext(@"C:\users\aznee\Documents\Real_documents\coding\C#\Brightchamps\Regex\Cs-Document\Document.txt");
-
-            Console.WriteLine("\n" + document);
-
-            Console.WriteLine(Regex.IsMatch(document, Regex.Escape("C#"), RegexOptions.IgnoreCase) ? "this is a C# documents":"This is not a C# document");
         }
     }
 }

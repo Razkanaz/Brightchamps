@@ -2,33 +2,104 @@
 {
     public class Reading
     {
-        public static void makefile(string path)
+        string PATH = "";
+
+        public void SetDefaultPath (string path)
+        {
+            PATH = path;
+        }
+
+
+        public void makefile()
+        {
+            using (FileStream file = File.Create(PATH)) { }
+        }
+
+        public void deletefile()
+        {
+            fileExists(PATH);
+
+            File.Delete(PATH);
+        }
+
+        public string readfiletext()
+        {
+            fileExists(PATH);
+
+            return File.ReadAllText(PATH);
+        }
+
+        public string[] readfileline()
+        {
+            fileExists(PATH);
+
+            return File.ReadAllLines(PATH);
+        }
+
+        public void writefile(string data)
+        {
+            fileExists(PATH);
+
+            string[] lines = data.Split(@"\n");
+
+            using (StreamWriter writer = new StreamWriter(PATH))
+            {
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    writer.WriteLine(lines[i]);
+                }
+            }
+        }
+
+        public void appendfile(string data)
+        {
+            fileExists(PATH);
+
+            string[] lines = data.Split(@"\n"), old = readfileline(PATH);
+
+            using (StreamWriter writer = new StreamWriter(PATH))
+            {
+                foreach (string p in old)
+                {
+                    writer.WriteLine(p);
+                }
+
+                for (int i = 0; i < lines.Length; i++)
+                {
+                    writer.WriteLine(lines[i]);
+                }
+            }
+        }
+
+        //Overload
+        
+        public void makefile(string path)
         {
             using (FileStream file = File.Create(path)) { }
         }
 
-        public static void deletefile(string path)
+        public void deletefile(string path)
         {
             fileExists(path);
 
             File.Delete(path);
         }
 
-        public static string readfiletext(string path)
+        public string readfiletext(string path)
         {
             fileExists(path);
 
             return File.ReadAllText(path);
         }
 
-        public static string[] readfileline(string path)
+        public string[] readfileline(string path)
         {
             fileExists(path);
 
             return File.ReadAllLines(path);
         }
 
-        public static void writefile(string data, string path)
+        public void writefile(string data, string path)
         {
             fileExists(path);
 
@@ -43,7 +114,7 @@
             }
         }
 
-        public static void appendfile(string data, string path)
+        public void appendfile(string data, string path)
         {
             fileExists(path);
 
@@ -63,7 +134,7 @@
             }
         }
 
-        static void fileExists (string path)
+        void fileExists (string path)
         {
             if (!File.Exists(path))
             {
@@ -76,20 +147,7 @@
     [Serializable]
     public class TXTFileNotFound : Exception
     {
-        public string StudentName { get; }
-
-        public TXTFileNotFound() { }
-
         public TXTFileNotFound(string message)
             : base(message) { }
-
-        public TXTFileNotFound(string message, Exception inner)
-            : base(message, inner) { }
-
-        public TXTFileNotFound(string message, string studentName)
-            : this(message)
-        {
-            StudentName = studentName;
-        }
     }
 }

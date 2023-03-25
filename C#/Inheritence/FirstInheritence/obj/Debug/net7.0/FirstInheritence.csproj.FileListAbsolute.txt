@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\bin\Debug\net7.0\FirstInheritence.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\bin\Debug\net7.0\FirstInheritence.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\bin\Debug\net7.0\FirstInheritence.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\bin\Debug\net7.0\FirstInheritence.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\bin\Debug\net7.0\FirstInheritence.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\refint\FirstInheritence.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\FirstInheritence.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\inheritence\FirstInheritence\obj\Debug\net7.0\ref\FirstInheritence.dll
