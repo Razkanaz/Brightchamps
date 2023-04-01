@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\bin\Debug\net7.0\FirstInterface.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\bin\Debug\net7.0\FirstInterface.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\bin\Debug\net7.0\FirstInterface.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\bin\Debug\net7.0\FirstInterface.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\bin\Debug\net7.0\FirstInterface.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\refint\FirstInterface.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\FirstInterface.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Interface\FirstInterface\obj\Debug\net7.0\ref\FirstInterface.dll
