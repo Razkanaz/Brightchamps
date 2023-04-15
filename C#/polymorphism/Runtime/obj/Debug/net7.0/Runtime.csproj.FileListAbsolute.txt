@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\bin\Debug\net7.0\Runtime.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\bin\Debug\net7.0\Runtime.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\bin\Debug\net7.0\Runtime.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\bin\Debug\net7.0\Runtime.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\bin\Debug\net7.0\Runtime.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\refint\Runtime.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\Runtime.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\Polymorphism\Runtime\obj\Debug\net7.0\ref\Runtime.dll

@@ -147,6 +147,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Interface", "Interface", "{
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FirstInterface", "Interface\FirstInterface\FirstInterface.csproj", "{AC06FDD3-0009-43E6-9A8A-B147A47FEEBE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Runtime", "Polymorphism\Runtime\Runtime.csproj", "{D007E473-5507-4071-BA5F-8F63CB40E79F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -397,6 +399,10 @@ Global
 		{AC06FDD3-0009-43E6-9A8A-B147A47FEEBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC06FDD3-0009-43E6-9A8A-B147A47FEEBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC06FDD3-0009-43E6-9A8A-B147A47FEEBE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D007E473-5507-4071-BA5F-8F63CB40E79F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D007E473-5507-4071-BA5F-8F63CB40E79F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D007E473-5507-4071-BA5F-8F63CB40E79F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D007E473-5507-4071-BA5F-8F63CB40E79F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -463,6 +469,7 @@ Global
 		{CFA8ED11-30D7-4DDA-AA7B-5B3725C17E9E} = {D487CA59-D831-471D-96D8-F735237C4376}
 		{DB63FBEE-CE30-41AE-89D7-C78801CD8879} = {D487CA59-D831-471D-96D8-F735237C4376}
 		{AC06FDD3-0009-43E6-9A8A-B147A47FEEBE} = {51E96504-42FD-4E42-B154-AC53F256D084}
+		{D007E473-5507-4071-BA5F-8F63CB40E79F} = {922FC958-ABC7-4DE5-9CEA-8A7FCD89BDD9}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {D58802D0-8737-4377-862D-78B92F298FC0}
