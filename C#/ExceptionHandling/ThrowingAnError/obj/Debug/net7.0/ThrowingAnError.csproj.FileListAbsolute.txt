@@ -1,0 +1,15 @@
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.csproj.AssemblyReference.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.AssemblyInfoInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.AssemblyInfo.cs
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.csproj.CoreCompileInputs.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\bin\Debug\net7.0\ThrowingAnError.exe
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\bin\Debug\net7.0\ThrowingAnError.deps.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\bin\Debug\net7.0\ThrowingAnError.runtimeconfig.json
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\bin\Debug\net7.0\ThrowingAnError.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\bin\Debug\net7.0\ThrowingAnError.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\refint\ThrowingAnError.dll
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.pdb
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ThrowingAnError.genruntimeconfig.cache
+C:\Users\aznee\Documents\Real_documents\coding\C#\Brightchamps\C#\ExceptionHandling\ThrowingAnError\obj\Debug\net7.0\ref\ThrowingAnError.dll

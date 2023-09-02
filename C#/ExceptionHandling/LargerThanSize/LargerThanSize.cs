@@ -24,7 +24,7 @@ class Program
             {
                 Numbers[i] = int.Parse(Numbs[i]);
             } catch (IndexOutOfRangeException)
-            {
+            {   
                 Console.WriteLine("THAT'S TOO MANY NUMBERS");
                 Console.ReadKey();
                 return;
