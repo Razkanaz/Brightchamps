@@ -1,66 +1,60 @@
-body{
-	margin: 0px;
+body {
+	margin:0;
 	font-size: 20px;
 	font-family: 'Roboto';
 }
 
-.Center{
-	margin: auto;
-  	width: 50%;
-}
-
-.Text-Center {
+.Text-Center{
 	text-align: center;
 }
 
-section{
+section {
 	width: 100%;
 }
 
 section::after{
 	content: "";
-	clear: both;
-	display: table;
+		clear: both;
+		display: table;
 }
 
-.Music-List {
-	margin: auto;
-	width: 100%;
+.Section-Header {
+	color: black;
+	font-size: 35px;
+	padding: 4rem;
 }
 
-
-#Music-Div-Center{
-	width: 100%;
-}
+/*Section*/
 
 #Header {
-	opacity: 0.85;
+	opacity: 0.8;
 	background-position: center;
 	background-image: url(Images/Bambang.jpg);
 	background-size: cover;
-	height: 400px;
+	height: 550px;
 	padding-top: 14px;
 }
 
-#Header-nav ul{
+/*Navigation Bar*/
+
+#Header-Nav ul{
 	word-spacing: 20px;
 }
 
-#Header-nav li{
+#Header-Nav li {
 	display: inline-block;
 }
 
-#Header-nav li a {
+#Header-Nav li a {
 	text-decoration: none;
-	color: white;
+	color:white;
 }
 
-#about{
-	height: auto;
-	width: 100%;
-	position: relative;
+.Nav-Bar li a{
+	transition: color 0.5s, border-bottom 4s;
 }
 
-.nav-bar li a:hover{
-	color: grey;
+.Nav-Bar li a:hover{
+	color: lightgray;
+	border-bottom: 1px solid black;
 }
