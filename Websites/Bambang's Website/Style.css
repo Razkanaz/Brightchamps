@@ -1,7 +1,22 @@
+/* removing scroll Bar */
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+body {
+  -ms-overflow-style: none;  /* IE and Edge */
+  scrollbar-width: none;  /* Firefox */
+}
+
+/*Main CSS*/
 body {
 	margin:0;
 	font-size: 20px;
 	font-family: 'Roboto';
+	font-weight: 400;
 }
 
 .Text-Center{
@@ -18,27 +33,32 @@ section::after{
 		display: table;
 }
 
-.Section-Header {
+.Section-Heading {
 	color: black;
-	font-size: 35px;
+	font-size: 45px;
 	padding: 4rem;
 }
 
-/*Section*/
+.Bold {
+	font-weight: 700;
+}
+
+
+/*About Section*/
 
 #Header {
-	opacity: 0.8;
+	opacity: 1;
 	background-position: center;
-	background-image: url(Images/Bambang.jpg);
+	background-image: url(Images/Chess.png);
 	background-size: cover;
-	height: 550px;
+	height: 530px;
 	padding-top: 14px;
 }
 
 /*Navigation Bar*/
 
 #Header-Nav ul{
-	word-spacing: 20px;
+	word-spacing: 35px;
 }
 
 #Header-Nav li {
@@ -46,15 +66,173 @@ section::after{
 }
 
 #Header-Nav li a {
+	font-size: 25px;
 	text-decoration: none;
 	color:white;
+	border-bottom: 3px solid transparent;
+	transition: color 0.5s, border-bottom 0.75s;
 }
 
-.Nav-Bar li a{
-	transition: color 0.5s, border-bottom 4s;
-}
-
-.Nav-Bar li a:hover{
+#Header-Nav li a:hover{
 	color: lightgray;
-	border-bottom: 1px solid black;
+	border-bottom: 3px solid lightgray;
 }
+
+#name-container {
+	margin-top: 150px;
+	font-size: 30px;
+	color: black;
+}
+
+/*About Section*/
+
+#About {
+	height: auto;
+	position: relative;
+	width: 100%;
+}
+
+#My-Photo img{
+	height: 360px;
+	width: 360px;
+	margin-top: -180px;
+	border: 4px solid white;
+	border-radius: 50%;
+	box-shadow: 0px 0px 6px 4px lightgray;
+}
+
+#Description {
+	color: gray;
+	width: 80%;
+	padding: 20px;
+	margin:auto;
+}
+
+/*Skills Section*/
+
+#Skills {
+	width: 100%;
+}
+
+/*Skills parent container*/
+.Skill-Display {
+	padding: 5px;
+	margin-bottom: 30px;
+}
+
+/*making each child div as a progress bar*/
+.Skill-progress {
+	border-width: 1px;
+	background-color: gray;
+	width: 200px;
+	height: 40px;
+	border-radius: 8px;
+	box-shadow: 3px 3px 5px 3px lightgray;
+	margin: 22px;
+	overflow: hidden;
+}
+
+.Skill-box {
+	box-shadow: 1px 1px 5px 2px gray;
+	border-radius: 8px 0px 0px 8px;
+	height: inherit;
+}
+
+.Skill-Name span{
+	color: white;
+	font-size: 16px;
+}
+
+.Skill-Col{
+	float: left;
+	width: 30%;
+}
+
+/*Favorites Section*/
+
+.Favorites-Col{
+	float: left;
+	width: 45%;
+	margin: 20px;
+	padding: 10px;
+}
+
+/*Education*/
+
+#Education {
+	width: 100%;
+}
+
+#Education img{
+	width: 50%;
+	height: auto;
+}
+
+.Education-Border{
+	border-bottom: 5px grey dotted;
+	margin-bottom: 25px;
+	padding-bottom: 25px;
+}
+
+.Education-Border p {
+	font-size: 25px;
+	padding-inline: 15%;
+}
+
+/*PortFolio*/
+
+.Portfolio-Col{
+	float: left;
+	margin: 10px;
+	width: 31%;
+}
+
+.Portfolio-Display{
+	margin-bottom: 30px;
+	padding-top: 0;
+	padding-bottom: 0;
+	padding-inline: 50px;
+}
+
+.Portfolio-Item{
+	background-size: cover;
+	background-repeat: no-repeat;
+	margin:10px;
+	position: relative;
+	text-align: center;
+	height: 400px;
+	width: 400px;
+}
+
+.Portfolio-Item p{
+	transition: all 0.5s ease-in-out;
+	margin-top: -0.1%;
+	background-color: grey;
+	opacity: 0.5;
+	height:inherit;
+	width: inherit;
+}
+
+.Portfolio-Item:hover p {
+	background-color: grey;
+	opacity: 0.5;
+	color: white;
+}
+
+/*
+.Portfolio-Text{
+	text-align: center;
+	transition: all 0.5s ease-in-out;
+	position: absolute;
+	color: transparent;
+	width: 100%;
+	height: 100%;
+	top: 0;
+	left: 0;
+}
+
+.Portfolio-Image:hover .Portfolio-Text{
+	background-color: grey;
+	opacity: 0.5;
+	color: white;
+}*/
