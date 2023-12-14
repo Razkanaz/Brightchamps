@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+
+	<head>
+
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<style type="text/css">
+			@font-face {
+				font-family: Belepotan;
+				src: url("Fonts/Belepotan-Normal.otf");
+			}
+
+			.Attractions {
+				margin: 0;
+				text-align: left;
+			}
+
+			.AttractionItem{
+				position: relative;
+				margin: 1.5vw;
+				margin-right: 0;
+				height: 35vh;
+				width: 26.5vw;
+				float: left;
+
+			}
+
+			.WhiteBlock{
+				transition: 0.5s ease-in-out;
+				z-index: 1;
+				position: absolute;
+				background-color: lightgrey;
+				width: 26.5vw;
+				height: 35vh;
+				opacity: 0;
+			}
+
+			.AttractionItem img{
+				position: absolute;
+				z-index: 0;
+				transition: 0.5s ease-in-out;
+				height: 35vh;
+				width: 26.5vw;
+			}
+
+			.AttractionText{
+				font-family: Belepotan;
+				z-index: 2;
+				height: 35vh;
+				width: 26.5vw;
+				position: absolute;
+				text-align: center;
+				transition: 0.5s ease-in-out;
+				color: transparent;
+			}
+
+			.AttractionItem:hover .AttractionText {
+				color: black;
+			}
+
+			.AttractionItem:hover .WhiteBlock{
+				opacity: 0.5;
+			}
+		</style>
+		<link rel="stylesheet" type="text/css" href="Navbar.css">
+		<title>Jakarta</title>
+
+	</head>
+
+	<body>
+
+		<div id = "NavBar">
+			<ul>
+				<a href="Home-Page.html" target="_self"><li>Home</li></a>
+				<a href="Bali.html" target="_self"><li>Bali</li></a>
+				<a href="Jakarta.html" target="_self"><li>Jakarta</li></a>
+				<a href="Yogyakarta.html" target="_self"><li>Yogyakarta</li></a>
+				<a href="Bintan.html" target="_self"><li>Bintan</li></a>
+				<a href="Bandung.html" target="_self"><li>Bandung</li></a>
+				<a href="Lombok.html" target="_self"><li>Lombok</li></a>
+			</ul>
+		</div>
+
+		<div id = "Main">
+
+			<h1>Jakarta</h1>
+			<p>The capital of indonesia, the heart of the country. Jakarta has a lot to offer in terms of modern city life of the country</p>
+			<p>There are 10 main Tourist attractions in jakarta</p>
+
+			<div class="Attractions">
+
+				<div class="AttractionItem">
+					<div class="WhiteBlock"></div>
+
+					<img src="Images/Monas.jpg">
+
+					<div class="AttractionText">
+						<h2>Monas</h2>
+						<p>
+							<b>Entry fee:</b> RP 80k<br><br>
+							<b>Timings:</b> Tuesday to Sunday 8 AM to 4 PM and On evening Tuesday to Friday 7 PM to 10 PM. On Saturday and Sunday from 7 PM to 12 AM.<br><br>
+							<b>Location:</b> Jl. Silang Monas, Jakarta 10110, Indonesia
+						</p>
+					</div>
+				</div>	
+
+				<div class="AttractionItem">
+					<div class="WhiteBlock"></div>
+
+					<img src="Images/TMI.jpg">
+
+					<div class="AttractionText">
+						<h2>Taman Mini Indonesia</h2>
+						<p>
+							<b>Entry fee:</b> Rp 108k<br><br>
+							<b>Timings:</b> 7 AM to 10 PM<br><br>
+							<b>Location:</b> East Jakarta, Jakarta, Indonesia
+						</p>
+					</div>
+				</div>	
+
+				<div class="AttractionItem">
+					<div class="WhiteBlock"></div>
+
+					<img src="Images/Kidzania.jpg">
+
+					<div class="AttractionText">
+						<h2>Kidzania</h2>
+						<p>
+							<b>Entry fee:</b> Rp 1267K (half day pass for children) and Rp 1105K (half day pass for adults)<br><br>
+							<b>Timings:</b> 10 AM to 7 PM<br><br>
+							<b>Location:</b> Pacific Place, Jl. Jend. Sudirman No.Kav. 52-53, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12190, Indonesia
+						</p>
+					</div>
+				</div>
+
+
+			</div>
+
+		</div>
+
+	</body>
+</html>
