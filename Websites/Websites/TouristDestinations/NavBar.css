@@ -16,6 +16,10 @@ body{
 	overflow-x: hidden;
 }
 
+body::-webkit-scrollbar {
+  display: none;
+}
+
 #NavBar {
 	position: fixed;
 	margin: -1%;
